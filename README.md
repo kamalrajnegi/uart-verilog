@@ -1,1 +1,1 @@
-# uart-verilog
+# Simple UART Implementation in Verilog
